@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: CaelmBleidd
+Main-Class: ru.ifmo.rain.menshutin.implementor.Implementor
+Class-Path: artifacts/info.kgeorgiy.java.advanced.implementor.jar
